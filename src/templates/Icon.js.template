@@ -12,4 +12,6 @@ const IconFont = ({ name, ...rest }) => {
   return null;
 };
 
+export { IconFont }
+
 export default IconFont;
